@@ -4,8 +4,9 @@ Dashboard interactivo de **Business Intelligence** desarrollado en **Looker Stud
 El proyecto permite explorar ingresos, ventas, clientes y productos mediante visualizaciones claras, filtros dinámicos y KPIs clave para la toma de decisiones.
 
 🔗 **Ver dashboard en Looker Studio:**  
-https://lookerstudio.google.com/u/1/reporting/0eeab178-28f4-4d5b-bcf7-78eb6595d902/page/p_6vfljhhczd
-
+<a href="https://lookerstudio.google.com/u/1/reporting/0eeab178-28f4-4d5b-bcf7-78eb6595d902/page/p_6vfljhhczd" target="_blank" rel="noopener noreferrer">
+  Abrir dashboard en Looker Studio
+</a>
 ---
 
 ## 📑 Tabla de Contenidos
